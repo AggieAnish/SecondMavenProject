@@ -24,6 +24,7 @@ public class ArrayListTest {
 	if (arr.contains(arr1)) {}
 	
 	System.out.println(arr1);	
+	System.out.println(arr);	
 	
 	}
 
