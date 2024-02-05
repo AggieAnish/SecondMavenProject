@@ -13,8 +13,7 @@ public class ExceptionTest {
 		}catch(Exception e) {
 			System.out.println("There is no value in the string " + e);
 		}
-			//int a[]= new int [5];
-		
+					
 		// Arraybound Exception
 		
 		int a[] = {1,2,3,4,5};	
